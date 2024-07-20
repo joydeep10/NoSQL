@@ -1,0 +1,9 @@
+sqlite3@4.2.0
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
